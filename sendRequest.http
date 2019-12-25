@@ -1,0 +1,10 @@
+        POST https://enxdkp3bw8.execute-api.us-west-2.amazonaws.com/Production/
+        Content-Type: application/json
+
+        {
+            "fileExt": "png",
+            "imageId": "UID",
+            "folder": "UID",
+            "img": "this.state.files[0].base64"
+        }
+

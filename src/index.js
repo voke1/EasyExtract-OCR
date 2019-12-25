@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
 import * as serviceWorker from './serviceWorker';
 import Upload  from "./component/upload"
 import 'bootstrap/dist/css/bootstrap.css'
