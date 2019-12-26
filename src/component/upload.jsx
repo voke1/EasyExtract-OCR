@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import { Button, Form, FormGroup, Label, FormText, Input } from 'reactstrap'
 import FileBase64 from 'react-file-base64'
 import './input.css'
+import Axios from 'axios'
 
 
 
