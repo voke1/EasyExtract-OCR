@@ -2,6 +2,10 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+
+//react application
+//Author: Voke Olomu
+
 function App() {
   return (
     <div className="App">
@@ -21,6 +25,7 @@ function App() {
       </header>
     </div>
   );
+  
 }
 
 export default App;
